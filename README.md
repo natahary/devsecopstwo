@@ -74,7 +74,7 @@ public class Main {
     }
 }
 ```
-![Скрин2](https://github.com/natahary/devsecopstwo/blob/main/devv1.1.1.png)
+![Скрин3](https://github.com/natahary/devsecopstwo/blob/main/devv1.2.0.png)
 
 
 
