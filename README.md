@@ -66,6 +66,16 @@ public class Main {
 
 Исправлена причина случайных зависаний при использовании функции X
 
+## Потом код был исправлен на:
+```
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world, hi!, v1.1.0, v1.1.1, v1.2.0");
+    }
+}
+```
+![Скрин2](https://github.com/natahary/devsecopstwo/blob/main/devv1.1.1.png)
+
 
 
 
